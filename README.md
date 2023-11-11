@@ -20,5 +20,5 @@ Practicing and deep diving in React Concepts;
 - State
 
 
-Practicing and deep diving in R
+Practicing and deep diving in
 
