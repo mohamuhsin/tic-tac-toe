@@ -13,7 +13,7 @@ Practicing and deep diving in React Concepts;
 - State
 
 
-Practicing and deep diving 
+Practicing and deep divin
 
 
 
