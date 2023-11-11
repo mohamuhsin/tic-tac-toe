@@ -9,7 +9,6 @@ Practicing and diving deep intp React Core Concepts;
 Practicing and deep diving in React Concepts; 
 - Components
 - JSX
-- P
 
 
 
