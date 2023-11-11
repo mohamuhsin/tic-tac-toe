@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-Practicing and deep diving in React Concepts; 
+Practicing and diving deep intp React Core Concepts; 
 - Components
 - JSX
 - Props
