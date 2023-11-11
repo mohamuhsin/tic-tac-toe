@@ -10,8 +10,7 @@ Practicing and deep diving in React Concepts;
 - Components
 - JSX
 - Props
-- State
-
+- St
 
 
 
