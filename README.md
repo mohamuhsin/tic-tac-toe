@@ -13,7 +13,7 @@ Practicing and deep diving in React Concepts;
 - State
 
 
-Practicin
+Practic
 
 
 
