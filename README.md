@@ -6,7 +6,7 @@ Practicing and diving deep intp React Core Concepts;
 - Props
 - State
 
-Practicing and deep diving in React Concepts
+Practicing and deep diving in React Concep
 
 
 
