@@ -10,7 +10,7 @@ Practicing and diving deep intp React Core Concepts;
 Practicing and diving deep intp React Core Concepts; 
 - Components
 - JSX
-- 
+
 
 
 
