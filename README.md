@@ -7,7 +7,7 @@ Practicing and diving deep intp React Core Concepts;
 - State
 
 
-Practicing and diving deep intp Reac
+Practicing and diving deep intp Rea
 
 
 
