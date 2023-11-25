@@ -5,8 +5,7 @@ Practicing and diving deep intp React Core Concepts;
 - JSX
 - Props
 - State
-
-Practicing a
+-  and other core concepts.
 
 
 
