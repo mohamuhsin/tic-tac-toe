@@ -7,4 +7,4 @@ Practicing and diving deep into React Core Concepts;
 - State
 - and other core concepts.
 
-- and other core concepts.
+- and other core conce
