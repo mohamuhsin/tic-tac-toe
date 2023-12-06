@@ -9,4 +9,4 @@ Practicing and diving deep into React Core Concepts;
 
 - and other core concepts.
 
-- and other co
+- and other
