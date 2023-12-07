@@ -4,6 +4,8 @@ import Log from "./components/Log";
 
 import { useState } from "react";
 
+import { WINNING_COMBINATIONS } from "./winning-combinations";
+
 function deriveActivePlayer(gameTurns) {
   let currentPlayer = "X";
 
