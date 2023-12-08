@@ -6,3 +6,4 @@ Practicing and diving deep into React Core Concepts;
 - Props
 - State
 - and other core concepts.
+- and other core concepts.
