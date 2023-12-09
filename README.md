@@ -5,7 +5,7 @@ Practicing and diving deep intp React Core Concepts;
 - JSX
 - Props
 - State
--  and other core conc
+-  and other core c
 
 
 
