@@ -5,5 +5,8 @@ Practicing and diving deep into React Core Concepts;
 - JSX
 - Props
 - State
-- and other core concepts.
-- and other core conc
+
+
+
+
+
