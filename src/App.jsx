@@ -72,6 +72,10 @@ function App() {
     });
   }
 
+  function handleRestart() {
+    setGameTurns([]);
+  }
+
   return (
     <main>
       <div id="game-container">
@@ -87,7 +91,9 @@ function App() {
             isActive={activePlayer === "0"}
           />
         </ol>
-        {(winner || hasDraw) && <GameOver winner={winner} />}
+        {(winner || hasDraw) && (
+          <GameOver winner={winner} onRestart={handleRestart} />
+        )}
         <GameBoard onSelectSquare={handleSelectedSquare} board={gameBoard} />
       </div>
       <Log turns={gameTurns} />
